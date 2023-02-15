@@ -3,3 +3,4 @@ openai_session.txt
 auth.sh
 *.mp3
 *.wav
+* venv
