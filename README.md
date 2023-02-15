@@ -51,14 +51,17 @@ Ejecuta el siguiente script
 
 > Hola. En que puedo ayudarte.
 
-Seguido de 2 segundos planteas tu pregunta. Ejemplo 
+Seguido de 2 segundos planteas tu pregunta 
 
-> "¿qué películas  de terror me recomiendas para este fin de semana?"
+Ejemplo.
+
+> " **GPT** ¿qué películas  de terror me recomiendas para este fin de semana?"
 
 Si todo está bien recibirás la repuesta en unos pocos segundos, en formato audio 
 
-para detener simplemente di **adiós** puede ser una frase como **gracias por todo y adiós **
+para detener simplemente di **adiós** puede ser una frase como **gracias por todo y adiós**
 
+Importante decir **GPT** o si quieres buscar en la **wikipedia** puedes decir por ejemplo **Busca en wikipedia quien fue Bobby Fisher**
 
 
 ## Referencias y Créditos 
